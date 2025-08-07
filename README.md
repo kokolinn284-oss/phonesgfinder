@@ -1,2 +1,2 @@
 # phonesgfinder
-AlinThit ဖုန်းမှန်ကပ် ရှာဖွေရေး
+AlinThit ဖုန်းမှန်ကပ်ရှာဖွေရေး
